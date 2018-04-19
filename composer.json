@@ -1,0 +1,16 @@
+{
+    "name": "lxl-test/laravel-test-pack",
+    "description": "laravel-study",
+    "authors": [
+        {
+            "name": "lixiaolong",
+            "email": "lixiaolong@zdongpin.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jai\\Contact\\": "src/"
+        }
+    },
+    "require": {}
+}
